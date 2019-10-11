@@ -1,5 +1,4 @@
 # Powerlifting-meets-analysis
-Powerlifting US tested  project
 
 ## Data Exploration :
 After loading the dataset, i did a little data cleaning then plotted the correlation between the age and the totalKg lifted by tested lifters in meets in the US :
